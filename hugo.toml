@@ -1,0 +1,33 @@
+baseURL = "https://3dminc.com/"
+languageCode = "ko-kr"
+title = "쓰리디엠 주식회사 | 3DM Inc."
+theme = "PaperMod"
+
+[params]
+  description = "3DM Inc. 공식 홈페이지 및 공시/IR 게시"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Company"
+    url = "/company/"
+    weight = 10
+  [[menu.main]]
+    name = "Business"
+    url = "/business/"
+    weight = 20
+  [[menu.main]]
+    name = "Facility"
+    url = "/facility/"
+    weight = 30
+  [[menu.main]]
+    name = "IR & Disclosure"
+    url = "/disclosure/"
+    weight = 40
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
