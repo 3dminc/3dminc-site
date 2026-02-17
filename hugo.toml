@@ -1,4 +1,5 @@
-baseURL = "https://3dminc.com/"
+baseURL = "https://www.3dminc.com/"
+
 languageCode = "ko-kr"
 title = "쓰리디엠 주식회사 | 3DM Inc."
 theme = "PaperMod"
