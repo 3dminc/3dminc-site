@@ -1,5 +1,14 @@
-+++
-date = '2026-02-16T10:41:56+09:00'
-draft = true
-title = 'Contact'
-+++
+---
+title: "Contact"
+---
+
+# Contact
+
+Korea Headquarters  
+(주소 기재)
+
+Canada Facility  
+7317 – 12 Street SE  
+Calgary, Alberta  
+
+Email: contact@3dminc.com
